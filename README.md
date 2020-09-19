@@ -4,4 +4,4 @@
 
 ![cppcheck-action](https://github.com/stepin104926/calculator/workflows/cppcheck-action/badge.svg)
 ![CI](https://github.com/stepin104926/calculator/workflows/CI/badge.svg)
-![Unit testing](https://github.com/stepin104926/calculator/workflows/Unit%20testing/badge.svg)
+![Unit testing](https://github.com/stepin104926/calculator/workflows/Unit%20testing/badge.svg?branch=master)
